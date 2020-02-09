@@ -1,0 +1,19 @@
+.GetMessage {
+  width: 95%;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  margin: 10px;
+  padding: 10px;
+  text-align: left;
+  background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.GetMessage_message {
+  margin: 0;
+}
+
+.GetMessage_author {
+  margin: 5px 0 0;
+  font-weight: bold;
+}
