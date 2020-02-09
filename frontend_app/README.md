@@ -1,3 +1,1 @@
-## Shop-frontend
-
-Special project for JS courses.
+hw_76
